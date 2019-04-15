@@ -1273,6 +1273,88 @@
       "installedTargets": []
     },
     {
+      "addonID": 223008,
+      "gameInstanceID": "d29093b5-a396-41dc-8f70-6d8d348835ff",
+      "installedFile": {
+        "id": 2670112,
+        "fileName": "OpenComputers-MC1.12.2-1.7.4.153.jar",
+        "fileNameOnDisk": "OpenComputers-MC1.12.2-1.7.4.153.jar",
+        "fileDate": "2019-02-07T05:54:56.617",
+        "fileLength": 15545293,
+        "releaseType": 1,
+        "fileStatus": 2,
+        "downloadUrl": "https://files.forgecdn.net/files/2670/112/OpenComputers-MC1.12.2-1.7.4.153.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "folderName": "META-INF",
+            "fimgerprint": 1959901996
+          },
+          {
+            "folderName": "li",
+            "fimgerprint": 1118624565
+          },
+          {
+            "folderName": "application.conf",
+            "fimgerprint": 1549276693
+          },
+          {
+            "folderName": "LICENSE-jnlua",
+            "fimgerprint": 2575647845
+          },
+          {
+            "folderName": "LICENSE-mods",
+            "fimgerprint": 835582608
+          },
+          {
+            "folderName": "LICENSE-unifont",
+            "fimgerprint": 1044111749
+          },
+          {
+            "folderName": "LICENSE",
+            "fimgerprint": 1204189457
+          },
+          {
+            "folderName": "mcmod.info",
+            "fimgerprint": 1946476538
+          },
+          {
+            "folderName": "LICENSE-typesafe",
+            "fimgerprint": 2404830683
+          },
+          {
+            "folderName": "LICENSE-luaj",
+            "fimgerprint": 3773002520
+          },
+          {
+            "folderName": "assets",
+            "fimgerprint": 1287920347
+          }
+        ],
+        "packageFingerprint": 3067488310,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "installMetadata": null
+      },
+      "dateInstalled": "2019-04-15T17:42:11.005969Z",
+      "dateUpdated": "2019-04-15T17:42:11.035799Z",
+      "dateLastUpdateAttempted": "2019-04-15T17:42:11.035799Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
       "addonID": 250957,
       "gameInstanceID": "d29093b5-a396-41dc-8f70-6d8d348835ff",
       "installedFile": {
