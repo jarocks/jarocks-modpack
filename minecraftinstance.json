@@ -124,6 +124,69 @@
       "installedTargets": []
     },
     {
+      "addonID": 79616,
+      "gameInstanceID": "d29093b5-a396-41dc-8f70-6d8d348835ff",
+      "installedFile": {
+        "id": 2621015,
+        "fileName": "Decocraft-2.6.2_1.12.2.jar",
+        "fileNameOnDisk": "Decocraft-2.6.2_1.12.2.jar",
+        "fileDate": "2018-09-25T23:45:32.77",
+        "fileLength": 16304269,
+        "releaseType": 1,
+        "fileStatus": 2,
+        "downloadUrl": "https://files.forgecdn.net/files/2621/15/Decocraft-2.6.2_1.12.2.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "addonId": 291499,
+            "type": 1
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "folderName": "META-INF",
+            "fimgerprint": 3136263156
+          },
+          {
+            "folderName": "com",
+            "fimgerprint": 1011728995
+          },
+          {
+            "folderName": "assets",
+            "fimgerprint": 771302968
+          },
+          {
+            "folderName": "mcmod.info",
+            "fimgerprint": 544873625
+          },
+          {
+            "folderName": "pack.mcmeta",
+            "fimgerprint": 3273911401
+          }
+        ],
+        "packageFingerprint": 2005757757,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "installMetadata": null
+      },
+      "dateInstalled": "2019-04-15T17:38:04.12649Z",
+      "dateUpdated": "2019-04-15T17:38:04.154467Z",
+      "dateLastUpdateAttempted": "2019-04-15T17:38:04.154467Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
       "addonID": 237167,
       "gameInstanceID": "d29093b5-a396-41dc-8f70-6d8d348835ff",
       "installedFile": {
@@ -170,6 +233,131 @@
       "dateInstalled": "2019-04-15T17:34:27.98234Z",
       "dateUpdated": "2019-04-15T17:34:27.984245Z",
       "dateLastUpdateAttempted": "2019-04-15T17:34:27.984245Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
+      "addonID": 228815,
+      "gameInstanceID": "d29093b5-a396-41dc-8f70-6d8d348835ff",
+      "installedFile": {
+        "id": 2699055,
+        "fileName": "OpenModsLib-1.12.2-0.12.2.jar",
+        "fileNameOnDisk": "OpenModsLib-1.12.2-0.12.2.jar",
+        "fileDate": "2019-04-14T10:36:25.69",
+        "fileLength": 2639587,
+        "releaseType": 1,
+        "fileStatus": 2,
+        "downloadUrl": "https://files.forgecdn.net/files/2699/55/OpenModsLib-1.12.2-0.12.2.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "folderName": "META-INF",
+            "fimgerprint": 982621930
+          },
+          {
+            "folderName": "assets",
+            "fimgerprint": 1528055574
+          },
+          {
+            "folderName": "info",
+            "fimgerprint": 4026736668
+          },
+          {
+            "folderName": "mcmod.info",
+            "fimgerprint": 3907450400
+          },
+          {
+            "folderName": "openmods",
+            "fimgerprint": 2572559241
+          },
+          {
+            "folderName": "pack.mcmeta",
+            "fimgerprint": 728614652
+          }
+        ],
+        "packageFingerprint": 1596478407,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "installMetadata": null
+      },
+      "dateInstalled": "2019-04-15T17:39:36.861031Z",
+      "dateUpdated": "2019-04-15T17:39:36.86573Z",
+      "dateLastUpdateAttempted": "2019-04-15T17:39:36.86573Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
+      "addonID": 228816,
+      "gameInstanceID": "d29093b5-a396-41dc-8f70-6d8d348835ff",
+      "installedFile": {
+        "id": 2699056,
+        "fileName": "OpenBlocks-1.12.2-1.8.1.jar",
+        "fileNameOnDisk": "OpenBlocks-1.12.2-1.8.1.jar",
+        "fileDate": "2019-04-14T10:37:38.517",
+        "fileLength": 3217616,
+        "releaseType": 1,
+        "fileStatus": 2,
+        "downloadUrl": "https://files.forgecdn.net/files/2699/56/OpenBlocks-1.12.2-1.8.1.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "addonId": 228815,
+            "type": 1
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "folderName": "META-INF",
+            "fimgerprint": 2244335198
+          },
+          {
+            "folderName": "assets",
+            "fimgerprint": 2675314772
+          },
+          {
+            "folderName": "mcmod.info",
+            "fimgerprint": 1979027516
+          },
+          {
+            "folderName": "openblocks",
+            "fimgerprint": 2123032946
+          },
+          {
+            "folderName": "pack.mcmeta",
+            "fimgerprint": 2694548026
+          }
+        ],
+        "packageFingerprint": 778518540,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "installMetadata": null
+      },
+      "dateInstalled": "2019-04-15T17:39:36.957393Z",
+      "dateUpdated": "2019-04-15T17:39:36.962891Z",
+      "dateLastUpdateAttempted": "2019-04-15T17:39:36.962891Z",
       "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
@@ -323,6 +511,66 @@
       "dateInstalled": "2019-04-15T17:33:54.22258Z",
       "dateUpdated": "2019-04-15T17:33:54.223619Z",
       "dateLastUpdateAttempted": "2019-04-15T17:33:54.223619Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
+      "addonID": 225561,
+      "gameInstanceID": "d29093b5-a396-41dc-8f70-6d8d348835ff",
+      "installedFile": {
+        "id": 2678374,
+        "fileName": "Extra Utilities 2 - 1.12 - 1.9.9",
+        "fileNameOnDisk": "extrautils2-1.12-1.9.9.jar",
+        "fileDate": "2019-02-21T22:11:37.027",
+        "fileLength": 3226408,
+        "releaseType": 1,
+        "fileStatus": 2,
+        "downloadUrl": "https://files.forgecdn.net/files/2678/374/extrautils2-1.12-1.9.9.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "folderName": "META-INF",
+            "fimgerprint": 2393535860
+          },
+          {
+            "folderName": "com",
+            "fimgerprint": 4273496676
+          },
+          {
+            "folderName": "assets",
+            "fimgerprint": 1171149069
+          },
+          {
+            "folderName": "mcmod.info",
+            "fimgerprint": 302704259
+          },
+          {
+            "folderName": "pack.mcmeta",
+            "fimgerprint": 314185225
+          }
+        ],
+        "packageFingerprint": 2050253455,
+        "gameVersion": [
+          "1.12.2",
+          "1.12",
+          "1.12.1"
+        ],
+        "installMetadata": null
+      },
+      "dateInstalled": "2019-04-15T17:39:53.3233Z",
+      "dateUpdated": "2019-04-15T17:39:53.328895Z",
+      "dateLastUpdateAttempted": "2019-04-15T17:39:53.328895Z",
       "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
@@ -799,6 +1047,162 @@
       "dateInstalled": "2019-04-15T17:33:16.722324Z",
       "dateUpdated": "2019-04-15T17:33:16.729278Z",
       "dateLastUpdateAttempted": "2019-04-15T17:33:16.729278Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
+      "addonID": 51195,
+      "gameInstanceID": "d29093b5-a396-41dc-8f70-6d8d348835ff",
+      "installedFile": {
+        "id": 2687757,
+        "fileName": "Railcraft 12.0.0 - MC 1.12.2",
+        "fileNameOnDisk": "railcraft-12.0.0.jar",
+        "fileDate": "2019-03-16T01:28:54.83",
+        "fileLength": 5541089,
+        "releaseType": 1,
+        "fileStatus": 2,
+        "downloadUrl": "https://files.forgecdn.net/files/2687/757/railcraft-12.0.0.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "folderName": "META-INF",
+            "fimgerprint": 4237966705
+          },
+          {
+            "folderName": "README.md",
+            "fimgerprint": 3665859200
+          },
+          {
+            "folderName": "Railcraft_License.txt",
+            "fimgerprint": 1502909835
+          },
+          {
+            "folderName": "assets",
+            "fimgerprint": 2343071173
+          },
+          {
+            "folderName": "atomicstryker",
+            "fimgerprint": 619703565
+          },
+          {
+            "folderName": "change_log.txt",
+            "fimgerprint": 1657535776
+          },
+          {
+            "folderName": "credits.txt",
+            "fimgerprint": 1379337202
+          },
+          {
+            "folderName": "localization_reformat.txt",
+            "fimgerprint": 481514740
+          },
+          {
+            "folderName": "mcmod.info",
+            "fimgerprint": 3838615573
+          },
+          {
+            "folderName": "mods",
+            "fimgerprint": 146983056
+          },
+          {
+            "folderName": "pack.mcmeta",
+            "fimgerprint": 118084069
+          },
+          {
+            "folderName": "railcraft.qm",
+            "fimgerprint": 3093669395
+          },
+          {
+            "folderName": "railcraft_version.json",
+            "fimgerprint": 2311738329
+          },
+          {
+            "folderName": "regex_rules.txt",
+            "fimgerprint": 924694124
+          },
+          {
+            "folderName": "thaumcraft",
+            "fimgerprint": 1195710767
+          },
+          {
+            "folderName": "ic2",
+            "fimgerprint": 4104638276
+          }
+        ],
+        "packageFingerprint": 4261977453,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "installMetadata": null
+      },
+      "dateInstalled": "2019-04-15T17:36:44.765702Z",
+      "dateUpdated": "2019-04-15T17:36:44.775913Z",
+      "dateLastUpdateAttempted": "2019-04-15T17:36:44.775913Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
+      "addonID": 291499,
+      "gameInstanceID": "d29093b5-a396-41dc-8f70-6d8d348835ff",
+      "installedFile": {
+        "id": 2685154,
+        "fileName": "PTRLib-1.0.4.jar",
+        "fileNameOnDisk": "PTRLib-1.0.4.jar",
+        "fileDate": "2019-03-09T18:24:16.617",
+        "fileLength": 169483,
+        "releaseType": 1,
+        "fileStatus": 2,
+        "downloadUrl": "https://files.forgecdn.net/files/2685/154/PTRLib-1.0.4.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "folderName": "META-INF",
+            "fimgerprint": 2924547806
+          },
+          {
+            "folderName": "com",
+            "fimgerprint": 870684237
+          },
+          {
+            "folderName": "pack.mcmeta",
+            "fimgerprint": 3273911401
+          },
+          {
+            "folderName": "mcmod.info",
+            "fimgerprint": 4126400434
+          }
+        ],
+        "packageFingerprint": 1768408972,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "installMetadata": null
+      },
+      "dateInstalled": "2019-04-15T17:38:03.481774Z",
+      "dateUpdated": "2019-04-15T17:38:03.484211Z",
+      "dateLastUpdateAttempted": "2019-04-15T17:38:03.484211Z",
       "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
