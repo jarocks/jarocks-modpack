@@ -1,1 +1,10 @@
 .DS_Store
+/logs
+/local
+/OpenComputersMod-*.dylib
+/journeymap
+/config/jei/worldSettings.cfg
+/options.txt
+/saves
+/usercache.json
+/usernamecache.json
