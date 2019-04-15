@@ -19,7 +19,7 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "0001-01-01T00:00:00",
+  "lastPlayed": "2019-04-15T18:24:14.046939Z",
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
@@ -33,9 +33,444 @@
   "gameTypeID": 432,
   "installPath": "/Users/jarocks/Documents/Curse/Minecraft/Instances/Jarocks/",
   "name": "Jarocks",
-  "cachedScans": [],
+  "cachedScans": [
+    {
+      "folderName": "TinkerToolLeveling-1.12.2-1.1.0.jar",
+      "fingerprint": 1563429384,
+      "fileDateHash": 2600142393,
+      "sectionID": 6,
+      "individualFingerprints": [
+        1563429384
+      ],
+      "status": 1,
+      "timestamp": "2019-04-15T18:18:38.605105Z",
+      "lastWriteTimeUtc": "2019-04-15T17:36:01Z",
+      "queryTimestamp": "2019-04-15T18:18:38.90166Z",
+      "fileCount": 1,
+      "fileSize": 95850
+    },
+    {
+      "folderName": "TinkersComplement-1.12.2-0.3.2.jar",
+      "fingerprint": 2883780468,
+      "fileDateHash": 1599015807,
+      "sectionID": 6,
+      "individualFingerprints": [
+        2883780468
+      ],
+      "status": 1,
+      "timestamp": "2019-04-15T18:18:38.60641Z",
+      "lastWriteTimeUtc": "2019-04-15T17:35:59Z",
+      "queryTimestamp": "2019-04-15T18:18:38.902047Z",
+      "fileCount": 1,
+      "fileSize": 232998
+    },
+    {
+      "folderName": "jei_1.12.2-4.15.0.268.jar",
+      "fingerprint": 1053776633,
+      "fileDateHash": 1143764236,
+      "sectionID": 6,
+      "individualFingerprints": [
+        1053776633
+      ],
+      "status": 1,
+      "timestamp": "2019-04-15T18:18:38.633396Z",
+      "lastWriteTimeUtc": "2019-04-15T17:25:31Z",
+      "queryTimestamp": "2019-04-15T18:18:38.902124Z",
+      "fileCount": 1,
+      "fileSize": 647239
+    },
+    {
+      "folderName": "FTBUtilities-5.4.0.92.jar",
+      "fingerprint": 2713404306,
+      "fileDateHash": 1979088760,
+      "sectionID": 6,
+      "individualFingerprints": [
+        2713404306
+      ],
+      "status": 1,
+      "timestamp": "2019-04-15T18:18:38.364224Z",
+      "lastWriteTimeUtc": "2019-04-15T17:34:28Z",
+      "queryTimestamp": "2019-04-15T18:18:38.902199Z",
+      "fileCount": 1,
+      "fileSize": 420946
+    },
+    {
+      "folderName": "CookingForBlockheads_1.12.2-6.4.70.jar",
+      "fingerprint": 3801276902,
+      "fileDateHash": 836970605,
+      "sectionID": 6,
+      "individualFingerprints": [
+        3801276902
+      ],
+      "status": 1,
+      "timestamp": "2019-04-15T18:18:38.258679Z",
+      "lastWriteTimeUtc": "2019-04-15T18:18:12Z",
+      "queryTimestamp": "2019-04-15T18:18:38.902286Z",
+      "fileCount": 1,
+      "fileSize": 589828
+    },
+    {
+      "folderName": "Mekanism-1.12.2-9.7.1.371.jar",
+      "fingerprint": 1285037682,
+      "fileDateHash": 3120688182,
+      "sectionID": 6,
+      "individualFingerprints": [
+        1285037682
+      ],
+      "status": 1,
+      "timestamp": "2019-04-15T18:18:38.375051Z",
+      "lastWriteTimeUtc": "2019-04-15T18:16:30Z",
+      "queryTimestamp": "2019-04-15T18:18:38.902364Z",
+      "fileCount": 1,
+      "fileSize": 7901884
+    },
+    {
+      "folderName": "Reliquary-1.12.2-1.3.4.786.jar",
+      "fingerprint": 2846254460,
+      "fileDateHash": 2021391277,
+      "sectionID": 6,
+      "individualFingerprints": [
+        2846254460
+      ],
+      "status": 1,
+      "timestamp": "2019-04-15T18:18:38.550083Z",
+      "lastWriteTimeUtc": "2019-04-15T18:16:37Z",
+      "queryTimestamp": "2019-04-15T18:18:38.902443Z",
+      "fileCount": 1,
+      "fileSize": 1244903
+    },
+    {
+      "folderName": "TConstruct-1.12.2-2.12.0.135.jar",
+      "fingerprint": 2741857549,
+      "fileDateHash": 3844482470,
+      "sectionID": 6,
+      "individualFingerprints": [
+        2741857549
+      ],
+      "status": 1,
+      "timestamp": "2019-04-15T18:18:38.579681Z",
+      "lastWriteTimeUtc": "2019-04-15T17:33:16Z",
+      "queryTimestamp": "2019-04-15T18:18:38.902524Z",
+      "fileCount": 1,
+      "fileSize": 3997455
+    },
+    {
+      "folderName": "ironchest-1.12.2-7.0.59.842.jar",
+      "fingerprint": 33495866,
+      "fileDateHash": 2919934422,
+      "sectionID": 6,
+      "individualFingerprints": [
+        33495866
+      ],
+      "status": 1,
+      "timestamp": "2019-04-15T18:18:38.627575Z",
+      "lastWriteTimeUtc": "2019-04-15T17:33:22Z",
+      "queryTimestamp": "2019-04-15T18:18:38.902604Z",
+      "fileCount": 1,
+      "fileSize": 952833
+    },
+    {
+      "folderName": "OpenComputers-MC1.12.2-1.7.4.153.jar",
+      "fingerprint": 3067488310,
+      "fileDateHash": 3171582464,
+      "sectionID": 6,
+      "individualFingerprints": [
+        3067488310
+      ],
+      "status": 1,
+      "timestamp": "2019-04-15T18:18:38.437197Z",
+      "lastWriteTimeUtc": "2019-04-15T17:42:11Z",
+      "queryTimestamp": "2019-04-15T18:18:38.902693Z",
+      "fileCount": 1,
+      "fileSize": 15545293
+    },
+    {
+      "folderName": "InventoryTweaks-1.63.jar",
+      "fingerprint": 4009982705,
+      "fileDateHash": 3187286544,
+      "sectionID": 6,
+      "individualFingerprints": [
+        4009982705
+      ],
+      "status": 1,
+      "timestamp": "2019-04-15T18:18:38.367346Z",
+      "lastWriteTimeUtc": "2019-04-15T17:33:54Z",
+      "queryTimestamp": "2019-04-15T18:18:38.902767Z",
+      "fileCount": 1,
+      "fileSize": 263258
+    },
+    {
+      "folderName": "Decocraft-2.6.2_1.12.2.jar",
+      "fingerprint": 2005757757,
+      "fileDateHash": 2712635755,
+      "sectionID": 6,
+      "individualFingerprints": [
+        2005757757
+      ],
+      "status": 1,
+      "timestamp": "2019-04-15T18:18:38.262012Z",
+      "lastWriteTimeUtc": "2019-04-15T17:38:04Z",
+      "queryTimestamp": "2019-04-15T18:18:38.902855Z",
+      "fileCount": 1,
+      "fileSize": 16304269
+    },
+    {
+      "folderName": "Mantle-1.12-1.3.3.49.jar",
+      "fingerprint": 3048711305,
+      "fileDateHash": 3844482470,
+      "sectionID": 6,
+      "individualFingerprints": [
+        3048711305
+      ],
+      "status": 1,
+      "timestamp": "2019-04-15T18:18:38.369393Z",
+      "lastWriteTimeUtc": "2019-04-15T17:33:16Z",
+      "queryTimestamp": "2019-04-15T18:18:38.902939Z",
+      "fileCount": 1,
+      "fileSize": 841425
+    },
+    {
+      "folderName": "railcraft-12.0.0.jar",
+      "fingerprint": 4261977453,
+      "fileDateHash": 3043057980,
+      "sectionID": 6,
+      "individualFingerprints": [
+        4261977453
+      ],
+      "status": 1,
+      "timestamp": "2019-04-15T18:18:38.648141Z",
+      "lastWriteTimeUtc": "2019-04-15T17:36:44Z",
+      "queryTimestamp": "2019-04-15T18:18:38.903015Z",
+      "fileCount": 1,
+      "fileSize": 5541089
+    },
+    {
+      "folderName": "New World",
+      "fingerprint": 469907085,
+      "fileDateHash": 3655123951,
+      "sectionID": 17,
+      "individualFingerprints": [
+        5730262,
+        489458212,
+        489458212,
+        489458212,
+        517521134,
+        758054953,
+        758054953,
+        758054953,
+        758054953,
+        758054953,
+        960256661,
+        1071911881,
+        1203323451,
+        1614604265,
+        1882382021,
+        2119167199,
+        2488781091,
+        2555602583,
+        2869278533,
+        2897766801,
+        2967445535,
+        3010950505,
+        3087490932,
+        3216044776,
+        3216044776,
+        4213863462,
+        4213863462,
+        4213863462,
+        4213863462,
+        4213863462
+      ],
+      "status": 1,
+      "timestamp": "2019-04-15T18:18:38.684777Z",
+      "lastWriteTimeUtc": "2019-04-15T17:57:33Z",
+      "queryTimestamp": "2019-04-15T18:18:38.903086Z",
+      "fileCount": 14,
+      "fileSize": 0
+    },
+    {
+      "folderName": "RebornCore-1.12.2-3.13.12.447-universal.jar",
+      "fingerprint": 3856277520,
+      "fileDateHash": 455744188,
+      "sectionID": 6,
+      "individualFingerprints": [
+        3856277520
+      ],
+      "status": 1,
+      "timestamp": "2019-04-15T18:18:38.544864Z",
+      "lastWriteTimeUtc": "2019-04-15T17:35:05Z",
+      "queryTimestamp": "2019-04-15T18:18:38.903178Z",
+      "fileCount": 1,
+      "fileSize": 740730
+    },
+    {
+      "folderName": "OpenModsLib-1.12.2-0.12.2.jar",
+      "fingerprint": 1596478407,
+      "fileDateHash": 225251375,
+      "sectionID": 6,
+      "individualFingerprints": [
+        1596478407
+      ],
+      "status": 1,
+      "timestamp": "2019-04-15T18:18:38.5247Z",
+      "lastWriteTimeUtc": "2019-04-15T17:39:36Z",
+      "queryTimestamp": "2019-04-15T18:18:38.903263Z",
+      "fileCount": 1,
+      "fileSize": 2639587
+    },
+    {
+      "folderName": "PTRLib-1.0.4.jar",
+      "fingerprint": 1768408972,
+      "fileDateHash": 1495119049,
+      "sectionID": 6,
+      "individualFingerprints": [
+        1768408972
+      ],
+      "status": 1,
+      "timestamp": "2019-04-15T18:18:38.543732Z",
+      "lastWriteTimeUtc": "2019-04-15T17:38:03Z",
+      "queryTimestamp": "2019-04-15T18:18:38.903588Z",
+      "fileCount": 1,
+      "fileSize": 169483
+    },
+    {
+      "folderName": "Chameleon-1.12-4.1.3.jar",
+      "fingerprint": 2760206313,
+      "fileDateHash": 2329283679,
+      "sectionID": 6,
+      "individualFingerprints": [
+        2760206313
+      ],
+      "status": 1,
+      "timestamp": "2019-04-15T18:18:38.25614Z",
+      "lastWriteTimeUtc": "2019-04-15T17:34:12Z",
+      "queryTimestamp": "2019-04-15T18:18:38.903507Z",
+      "fileCount": 1,
+      "fileSize": 96859
+    },
+    {
+      "folderName": "FTBUtilitiesBackups-1.0.0.3.jar",
+      "fingerprint": 3235427596,
+      "fileDateHash": 1979088760,
+      "sectionID": 6,
+      "individualFingerprints": [
+        3235427596
+      ],
+      "status": 1,
+      "timestamp": "2019-04-15T18:18:38.366933Z",
+      "lastWriteTimeUtc": "2019-04-15T17:34:28Z",
+      "queryTimestamp": "2019-04-15T18:18:38.903682Z",
+      "fileCount": 1,
+      "fileSize": 41822
+    },
+    {
+      "folderName": "StevesCarts-1.12.2-2.4.30.134.jar",
+      "fingerprint": 155893150,
+      "fileDateHash": 455744188,
+      "sectionID": 6,
+      "individualFingerprints": [
+        155893150
+      ],
+      "status": 1,
+      "timestamp": "2019-04-15T18:18:38.557023Z",
+      "lastWriteTimeUtc": "2019-04-15T17:35:05Z",
+      "queryTimestamp": "2019-04-15T18:18:38.903785Z",
+      "fileCount": 1,
+      "fileSize": 2475731
+    },
+    {
+      "folderName": "journeymap-1.12.2-5.5.4.jar",
+      "fingerprint": 1853050331,
+      "fileDateHash": 652261116,
+      "sectionID": 6,
+      "individualFingerprints": [
+        1853050331
+      ],
+      "status": 1,
+      "timestamp": "2019-04-15T18:18:38.638068Z",
+      "lastWriteTimeUtc": "2019-04-15T17:32:12Z",
+      "queryTimestamp": "2019-04-15T18:18:38.903881Z",
+      "fileCount": 1,
+      "fileSize": 1845450
+    },
+    {
+      "folderName": "OpenBlocks-1.12.2-1.8.1.jar",
+      "fingerprint": 778518540,
+      "fileDateHash": 225251375,
+      "sectionID": 6,
+      "individualFingerprints": [
+        778518540
+      ],
+      "status": 1,
+      "timestamp": "2019-04-15T18:18:38.418056Z",
+      "lastWriteTimeUtc": "2019-04-15T17:39:36Z",
+      "queryTimestamp": "2019-04-15T18:18:38.90397Z",
+      "fileCount": 1,
+      "fileSize": 3217616
+    },
+    {
+      "folderName": "StorageDrawersExtras-1.12-3.1.0.jar",
+      "fingerprint": 4129009071,
+      "fileDateHash": 883481345,
+      "sectionID": 6,
+      "individualFingerprints": [
+        4129009071
+      ],
+      "status": 1,
+      "timestamp": "2019-04-15T18:18:38.576099Z",
+      "lastWriteTimeUtc": "2019-04-15T17:35:39Z",
+      "queryTimestamp": "2019-04-15T18:18:38.904076Z",
+      "fileCount": 1,
+      "fileSize": 402870
+    },
+    {
+      "folderName": "StorageDrawers-1.12.2-5.3.8.jar",
+      "fingerprint": 112282176,
+      "fileDateHash": 2329283679,
+      "sectionID": 6,
+      "individualFingerprints": [
+        112282176
+      ],
+      "status": 1,
+      "timestamp": "2019-04-15T18:18:38.572127Z",
+      "lastWriteTimeUtc": "2019-04-15T17:34:12Z",
+      "queryTimestamp": "2019-04-15T18:18:38.904169Z",
+      "fileCount": 1,
+      "fileSize": 596220
+    },
+    {
+      "folderName": "extrautils2-1.12-1.9.9.jar",
+      "fingerprint": 2050253455,
+      "fileDateHash": 1915738734,
+      "sectionID": 6,
+      "individualFingerprints": [
+        2050253455
+      ],
+      "status": 1,
+      "timestamp": "2019-04-15T18:18:38.60848Z",
+      "lastWriteTimeUtc": "2019-04-15T17:39:53Z",
+      "queryTimestamp": "2019-04-15T18:18:38.904263Z",
+      "fileCount": 1,
+      "fileSize": 3226408
+    },
+    {
+      "folderName": "FTBLib-5.4.1.95.jar",
+      "fingerprint": 2858732074,
+      "fileDateHash": 2035365181,
+      "sectionID": 6,
+      "individualFingerprints": [
+        2858732074
+      ],
+      "status": 1,
+      "timestamp": "2019-04-15T18:18:38.354691Z",
+      "lastWriteTimeUtc": "2019-04-15T17:34:27Z",
+      "queryTimestamp": "2019-04-15T18:18:38.904347Z",
+      "fileCount": 1,
+      "fileSize": 884680
+    }
+  ],
   "isValid": true,
-  "lastPreviousMatchUpdate": "0001-01-01T00:00:00",
+  "lastPreviousMatchUpdate": "2019-04-15T18:18:39.177617Z",
   "isEnabled": true,
   "isPinned": false,
   "gameVersion": "1.12.2",
@@ -121,7 +556,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 79616,
@@ -184,7 +619,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 237167,
@@ -242,7 +677,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 228815,
@@ -304,7 +739,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 228816,
@@ -367,7 +802,118 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
+    },
+    {
+      "addonID": 268560,
+      "gameInstanceID": "d29093b5-a396-41dc-8f70-6d8d348835ff",
+      "installedFile": {
+        "id": 2699534,
+        "fileName": "Mekanism-1.12.2-9.7.1.371.jar",
+        "fileNameOnDisk": "Mekanism-1.12.2-9.7.1.371.jar",
+        "fileDate": "2019-04-15T14:19:38.243",
+        "fileLength": 7901884,
+        "releaseType": 1,
+        "fileStatus": 2,
+        "downloadUrl": "https://files.forgecdn.net/files/2699/534/Mekanism-1.12.2-9.7.1.371.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "addonId": 223008,
+            "type": 2
+          },
+          {
+            "addonId": 223794,
+            "type": 2
+          },
+          {
+            "addonId": 238222,
+            "type": 2
+          },
+          {
+            "addonId": 239197,
+            "type": 2
+          },
+          {
+            "addonId": 239286,
+            "type": 2
+          },
+          {
+            "addonId": 239431,
+            "type": 2
+          },
+          {
+            "addonId": 242638,
+            "type": 2
+          },
+          {
+            "addonId": 244651,
+            "type": 2
+          },
+          {
+            "addonId": 245211,
+            "type": 2
+          },
+          {
+            "addonId": 253449,
+            "type": 2
+          },
+          {
+            "addonId": 270789,
+            "type": 2
+          },
+          {
+            "addonId": 282001,
+            "type": 2
+          },
+          {
+            "addonId": 300890,
+            "type": 2
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "folderName": "META-INF",
+            "fimgerprint": 1697497689
+          },
+          {
+            "folderName": "assets",
+            "fimgerprint": 1046195916
+          },
+          {
+            "folderName": "mekanism",
+            "fimgerprint": 25512994
+          },
+          {
+            "folderName": "pack.mcmeta",
+            "fimgerprint": 141643309
+          },
+          {
+            "folderName": "mcmod.info",
+            "fimgerprint": 3650833898
+          }
+        ],
+        "packageFingerprint": 1285037682,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "installMetadata": null
+      },
+      "dateInstalled": "2019-04-15T18:16:30.336318Z",
+      "dateUpdated": "2019-04-15T18:16:30.350676Z",
+      "dateLastUpdateAttempted": "2019-04-15T18:16:30.350676Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": null
     },
     {
       "addonID": 272671,
@@ -450,7 +996,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 223094,
@@ -520,7 +1066,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 225561,
@@ -580,7 +1126,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 254879,
@@ -645,7 +1191,61 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
+    },
+    {
+      "addonID": 241319,
+      "gameInstanceID": "d29093b5-a396-41dc-8f70-6d8d348835ff",
+      "installedFile": {
+        "id": 2671774,
+        "fileName": "Reliquary-1.12.2-1.3.4.786.jar",
+        "fileNameOnDisk": "Reliquary-1.12.2-1.3.4.786.jar",
+        "fileDate": "2019-02-10T23:04:17.343",
+        "fileLength": 1244903,
+        "releaseType": 1,
+        "fileStatus": 2,
+        "downloadUrl": "https://files.forgecdn.net/files/2671/774/Reliquary-1.12.2-1.3.4.786.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "folderName": "META-INF",
+            "fimgerprint": 4198012077
+          },
+          {
+            "folderName": "xreliquary",
+            "fimgerprint": 3909081947
+          },
+          {
+            "folderName": "assets",
+            "fimgerprint": 1397195662
+          },
+          {
+            "folderName": "mcmod.info",
+            "fimgerprint": 4041047563
+          }
+        ],
+        "packageFingerprint": 2846254460,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "installMetadata": null
+      },
+      "dateInstalled": "2019-04-15T18:16:37.784411Z",
+      "dateUpdated": "2019-04-15T18:16:37.787075Z",
+      "dateLastUpdateAttempted": "2019-04-15T18:16:37.787075Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": null
     },
     {
       "addonID": 230497,
@@ -701,7 +1301,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 237903,
@@ -773,7 +1373,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 314904,
@@ -831,7 +1431,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 32274,
@@ -914,7 +1514,78 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
+    },
+    {
+      "addonID": 231484,
+      "gameInstanceID": "d29093b5-a396-41dc-8f70-6d8d348835ff",
+      "installedFile": {
+        "id": 2696150,
+        "fileName": "CookingForBlockheads_1.12.2-6.4.70.jar",
+        "fileNameOnDisk": "CookingForBlockheads_1.12.2-6.4.70.jar",
+        "fileDate": "2019-04-06T18:11:40.83",
+        "fileLength": 589828,
+        "releaseType": 1,
+        "fileStatus": 2,
+        "downloadUrl": "https://files.forgecdn.net/files/2696/150/CookingForBlockheads_1.12.2-6.4.70.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "addonId": 221857,
+            "type": 2
+          },
+          {
+            "addonId": 222348,
+            "type": 2
+          },
+          {
+            "addonId": 235328,
+            "type": 2
+          },
+          {
+            "addonId": 242247,
+            "type": 2
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "folderName": "META-INF",
+            "fimgerprint": 3739516496
+          },
+          {
+            "folderName": "net",
+            "fimgerprint": 2953772038
+          },
+          {
+            "folderName": "mcmod.info",
+            "fimgerprint": 1014772697
+          },
+          {
+            "folderName": "assets",
+            "fimgerprint": 2968940740
+          }
+        ],
+        "packageFingerprint": 3801276902,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "installMetadata": null
+      },
+      "dateInstalled": "2019-04-15T18:18:12.72245Z",
+      "dateUpdated": "2019-04-15T18:18:12.723832Z",
+      "dateLastUpdateAttempted": "2019-04-15T18:18:12.723832Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": null
     },
     {
       "addonID": 237102,
@@ -989,7 +1660,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 74072,
@@ -1056,7 +1727,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 51195,
@@ -1158,7 +1829,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 291499,
@@ -1212,7 +1883,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 228756,
@@ -1270,7 +1941,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 223008,
@@ -1352,7 +2023,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 250957,
@@ -1419,7 +2090,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 238222,
@@ -1535,7 +2206,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 223852,
@@ -1600,7 +2271,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     }
   ],
   "isMigrated": false,
