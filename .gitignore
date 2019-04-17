@@ -16,3 +16,5 @@
 /servers.dat
 /config/splash.properties
 /minecraftinstance.json
+/mods/Schematica-*
+/mods/WorldEdit CUI Forge Edition 2-*
